@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamila-jusino&label=Profile%20views&color=0e75b6&style=flat" alt="kamila-jusino" /> </p>
 
-- 🌱 I’m currently learning **Blender and Java**
+- 🌱 I’m currently learning **Figma and Java**
 
 - 📫 How to reach me **Kamila.Jusino@gmail.com**
 
