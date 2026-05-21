@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamila Jusino👩‍💻☕</h1>
+<h1 align="center"> Kamila Jusino👩‍💻☕</h1>
 <h3 align="center">A Computer Science student from the University of Alabama at Birmingham</h3>
 
 <p align="left"> 
