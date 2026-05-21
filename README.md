@@ -1,5 +1,5 @@
 <h1 align="center"> Kamila Jusino👩‍💻☕</h1>
-<h3 align="center">A Computer Science student from the University of Alabama at Birmingham</h3>
+<h3 align="center">A Computer Science graduate from the University of Alabama at Birmingham</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=kamila-jusino&label=Profile%20views&color=0e75b6&style=flat" alt="kamila-jusino" /> 
